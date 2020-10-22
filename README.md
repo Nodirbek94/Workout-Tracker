@@ -3,6 +3,8 @@
 ## Description
 User can track workouts with Workout Tracker, the app will keep track of every exercise in your workout. The app dashboard will display weekly summary graphs of all workouts done in a week
 
+<strong>Deployed Link: https://workout-appp.herokuapp.com/?id=5f921076a3e77e00170c5b9f</strong>
+
 
 ## Table of Contents
 * [Installation](#installation)
